@@ -1,3 +1,6 @@
+  // merge sort program in c language
+
+
  #include<stdio.h>
  #include<conio.h>
 
